@@ -19,6 +19,7 @@ import java.util.function.Function;
 public class JwtService {
 
     // Secret key (must be at least 256 bits for HS256)
+    // this example 256 bit key for HS256
     private static final String SECRET_KEY = "4A404E635266556A586E3272357538782F413F4428472B4B6250655368566D59";
 
     // Extract username from token
