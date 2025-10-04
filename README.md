@@ -126,7 +126,7 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 ## 📄 License
 
-Distributed under the **Apache 2.0** License. See the `LICENSE` file for more information.
+Distributed under the **Apache 2.0** License. See the `[LICENSE]` file for more information.
 
 ---
 
