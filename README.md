@@ -95,9 +95,11 @@ The following are the primary endpoints exposed by the AuthService:
     "username": "user.name",
     "password": "strongpassword123"
 }
-Successful Response (200 OK):```
+```
+Successful Response (200 OK):
 
 
+**signUp-request
 ```JSON
 {
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
@@ -105,10 +107,11 @@ Successful Response (200 OK):```
     "id": 101,
     "username": "user.name",
     "roles": ["ROLE_USER"]
-}```
+}
+```
 
 
-**
+
 ## 🤝 Contribution
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
